@@ -4,6 +4,6 @@ import org.lanqiao.entity.Student;
 
 public interface StudentMapper {
 	public void addStudent(Student student	);
-
+	//13131
 	Student queryStudentByStuno(int stuno);
 }
